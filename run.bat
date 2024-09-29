@@ -1,0 +1,1 @@
+python C:\path_to_script.py
